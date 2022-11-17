@@ -1,0 +1,26 @@
+﻿Build started 13/07/2017 23:03:36.
+     1>Project "F:\Swerve\Libs\zlib1211\zlib-1.2.11\contrib\vstudio\vc14\testzlib.vcxproj" on node 4 (Build target(s)).
+     1>Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"x86\TestZlibRelease\testzlib.exe" /INCREMENTAL:NO /NOLOGO ..\..\masmx86\match686.obj ..\..\masmx86\inffas32.obj kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST:NO /Debug /PDB:"x86\TestZlibRelease\testzlib.pdb" /SUBSYSTEM:CONSOLE /OPT:REF /OPT:ICF /LTCG:incremental /TLBID:1 /DYNAMICBASE:NO /IMPLIB:"x86\TestZlibRelease\testzlib.lib" /MACHINE:X86 /SAFESEH:NO /SAFESEH:NO x86\TestZlibRelease\Tmp\adler32.obj
+         x86\TestZlibRelease\Tmp\compress.obj
+         x86\TestZlibRelease\Tmp\crc32.obj
+         x86\TestZlibRelease\Tmp\deflate.obj
+         x86\TestZlibRelease\Tmp\infback.obj
+         x86\TestZlibRelease\Tmp\inffast.obj
+         x86\TestZlibRelease\Tmp\inflate.obj
+         x86\TestZlibRelease\Tmp\inftrees.obj
+         x86\TestZlibRelease\Tmp\testzlib.obj
+         x86\TestZlibRelease\Tmp\trees.obj
+         x86\TestZlibRelease\Tmp\uncompr.obj
+         x86\TestZlibRelease\Tmp\zutil.obj
+         Generating code
+         0 of 69 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+           0 functions were new in current compilation
+           0 functions had inline decision re-evaluated but remain unchanged
+         Finished generating code
+         testzlib.vcxproj -> F:\Swerve\Libs\zlib1211\zlib-1.2.11\contrib\vstudio\vc14\x86\TestZlibRelease\testzlib.exe
+     1>Done Building Project "F:\Swerve\Libs\zlib1211\zlib-1.2.11\contrib\vstudio\vc14\testzlib.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.96

@@ -1,0 +1,11 @@
+﻿Build started 13/07/2017 23:03:40.
+     1>Project "F:\Swerve\Libs\zlib1211\zlib-1.2.11\contrib\vstudio\vc14\testzlibdll.vcxproj" on node 2 (Build target(s)).
+     1>Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"x86\TestZlibDllRelease\testzlibdll.exe" /INCREMENTAL:NO /NOLOGO x86\ZlibDllRelease\zlibwapi.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST:NO /Debug /PDB:"x86\TestZlibDllRelease\testzlibdll.pdb" /SUBSYSTEM:CONSOLE /OPT:REF /OPT:ICF /TLBID:1 /DYNAMICBASE:NO /IMPLIB:"x86\TestZlibDllRelease\testzlibdll.lib" /MACHINE:X86 /SAFESEH x86\TestZlibDllRelease\Tmp\testzlib.obj
+         "F:\Swerve\Libs\zlib1211\zlib-1.2.11\contrib\vstudio\vc14\x86\ZlibDllRelease\zlibwapi.lib"
+         testzlibdll.vcxproj -> F:\Swerve\Libs\zlib1211\zlib-1.2.11\contrib\vstudio\vc14\x86\TestZlibDllRelease\testzlibdll.exe
+     1>Done Building Project "F:\Swerve\Libs\zlib1211\zlib-1.2.11\contrib\vstudio\vc14\testzlibdll.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.20
